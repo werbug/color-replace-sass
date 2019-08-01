@@ -2,7 +2,7 @@
     "name": "color-replace-sass",
     "displayName": "color-replace-sass",
     "description": "replace color with color variable just for study",
-    "version": "1.1.1",
+    "version": "0.0.2",
     "publisher": "color-replace-sass",
     "engines": {
         "vscode": "^1.13.0"

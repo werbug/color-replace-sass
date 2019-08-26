@@ -3,7 +3,7 @@
     "displayName": "color-replace-sass",
     "description": "replace color with color variable just for study",
     "version": "0.0.5",
-    "icon": "./replace.png",
+    "icon": "replace.jpg",
     "publisher": "color-replace-scss",
     "engines": {
         "vscode": "^1.13.0"

@@ -1,6 +1,9 @@
-# [color-variable-replace](https://marketplace.visualstudio.com/items?itemName=color-variable-replace.color-variable-replace)
-## Features
-Sometimes using css extension like Less, Sass, Stylus. We usually define color variable in one or mutiple files.This extension can help you replace hex color value with color variable name.
+# color-replace-sass
+## Abstract
+This extension solves the problem of replacing the color attribute for sass. If you want to replace it in less or stylus, see here[color-variable-replace](https://marketplace.visualstudio.com/items?itemName=color-variable-replace.color-variable-replace)
+## Note
+1. replace hex color value with color variable name
+2. The color variable name must be consistent with the css property. For example: scss: `border-bottom: #000 solid 1px;` variable file: `$a-border-bottom: #000;`. Why need that? Because we need to control exactly how different properties have different variable names.
 
 ## Extension Settings
 In your project/.vscode/setting.json config this extension.

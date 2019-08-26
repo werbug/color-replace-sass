@@ -2,7 +2,7 @@
     "name": "color-replace-sass",
     "displayName": "color-replace-sass",
     "description": "replace color with color variable just for study",
-    "version": "0.0.5",
+    "version": "0.0.4",
     "icon": "replace.jpg",
     "publisher": "color-replace-scss",
     "engines": {
